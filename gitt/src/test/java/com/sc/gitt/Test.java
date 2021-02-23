@@ -6,6 +6,7 @@ public class Test {
         int c=333;
         int x=60;
         int z=20;
+        int a=50;
 
         for (int i = 0; i <nums.length-1 ; i++) {
 
